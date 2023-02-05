@@ -1,0 +1,13 @@
+const data = ["hola", 2, 5, "adios"];
+const mayorque = data[2]>data[1];
+const suma = data[2]+data[1];
+const resta = data[2]-data[1];
+const producto = data[2]*data[1];
+const cociente = data[2]/data[1];
+const resto = data[2]%data[1];
+console.log(mayorque);
+console.log(suma);
+console.log(resta);
+console.log(producto);
+console.log(cociente);
+console.log(resto);
